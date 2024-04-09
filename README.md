@@ -1,2 +1,1 @@
-# Get-Installed-App
-This script helps to extract the installed app in local and remote computer
+This repository contains powershell script that is helpful for the HelpDesk Person.
